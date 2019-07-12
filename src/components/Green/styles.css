@@ -1,0 +1,11 @@
+.green {
+    width: 600px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
